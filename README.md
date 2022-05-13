@@ -3,4 +3,6 @@
  
  
 ![Staring point](https://github.com/Ashish-C01/data_project/blob/main/1.JPG)
+
+
 ![Example plotting](https://github.com/Ashish-C01/data_project/blob/main/2.JPG)
